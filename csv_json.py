@@ -36,7 +36,7 @@ def make_json(csvFilePath, jsonFilePath):
             team = rows ['TEAM NAMES']
             if team.lower().startswith("team"):
                 Team = team
-                print(Team)
+                #print(Team)
 
 
             # append the json to data
