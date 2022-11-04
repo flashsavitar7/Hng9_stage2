@@ -1,0 +1,1685 @@
+[
+    {
+        "format": "CHIP-0007",
+        "Name": "adewale-the-amebo",
+        "description": "Adewale likes to be in everyone's business. ",
+        "minting-too": "TEAM BEVEL",
+        "series_number": "1",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: black; teeth: none; clothing: red; accessories: mask; expression: none; strength: powerful; weakness: curiosity"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "7c01d50eaf2f082c0e25986c5842c3b05be21f86544db91254b9a27a9c04dfcf"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "alli-the-queeny",
+        "description": "Alli is an LGBT Stan.",
+        "minting-too": "",
+        "series_number": "2",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: white; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: powerful; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "f45387b00a9291385ac75fdc50259f8602a0f177a1a66d00d556c16b6eec094c"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "aminat-the-snnobish",
+        "description": "Aminat never really wants to talk to anyone.",
+        "minting-too": "",
+        "series_number": "3",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: brown bun; eyes: none; teeth: none; clothing: yellow; accessories: glasses; expression: blank; strength: none; weakness: attitude"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "3c23912ed02bdba80cae2577eda436bf6766bab67b4030818c19ae5bda24d4a3"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "aminu-the-carpenter",
+        "description": "Aminu's hands are blessed; he makes the best furniture in the whole of Kano.",
+        "minting-too": "",
+        "series_number": "4",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: blue; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: powerful; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "d14fdf7d016be8c4aefa0f5f2c9e5917be1b924beaee0fd679ce738ab4adf429"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "chibuike-the-kudibag",
+        "description": "Chibuike is too rich. Everyone wonders how he got it.",
+        "minting-too": "",
+        "series_number": "5",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: black; teeth: none; clothing: blue; accessories: mask; expression: none; strength: hustler; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "5f347ba822a855c7ce05492a6e4e132a432e5c8db2a51ac0054c2fc25def74bd"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "chidinma-the-model",
+        "description": "From Paris' runways; to London's streets; she's always in demand.",
+        "minting-too": "",
+        "series_number": "6",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: brown hair; eyes: none; teeth: none; clothing: multicolored; accessories: glasses; expression: none; strength: hardworking; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "ef314bd33838a033885b75db810d232ef067b42cf1cd19b58db574f854703700"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "chioma-pretty- girl",
+        "description": "Chioma's face card is a 100.",
+        "minting-too": "",
+        "series_number": "7",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: dreads; eyes: none; teeth: none; clothing: multicolored; accessories: glasses; expression: none; strength: none; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "6e298f9327bc01bb9a8a1f8655e74b0cdc85a107e5d23ec0141dbc5469f36f1e"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "damilare-the-handsome",
+        "description": "He's a fine boy; proper eye candy. ",
+        "minting-too": "",
+        "series_number": "8",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: white; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: none; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "8e57a4302eaf98ed224162e5364f826ad594bd8d027cbe3907731b447efc6c7f"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "ebiowie-the-planter",
+        "description": "Ebiowei has a reputation for nurturing plants.",
+        "minting-too": "",
+        "series_number": "9",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: none; teeth: none; clothing: multicolored; accessories: none; expression: none; strength: powerful; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "eb9d7526cb9adb85e77358db535dfb55914d537a670d3354a50ce5f07ed71b29"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "emeka-the-businessman",
+        "description": "Emeka only cares about containers. No time to waste.",
+        "minting-too": "",
+        "series_number": "10",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: white; teeth: none; clothing: orange; accessories: mask; expression: none; strength: hard worker; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "efa89082b896d7a9f284681ef202100a98b58f94eb339bd8ac6d7adf6b48699e"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "gbeminyi-the-monk",
+        "description": "He lives in a monastery off the coast. No one has heard him speak in years.",
+        "minting-too": "",
+        "series_number": "11",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: blue; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: none; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "9ce26f2c8d1dd45f32793a632d94314be12cccb5b7f98b06696c4035e936eee4"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "henry-the-sportsman",
+        "description": "He's played every sport known to man. Even cricket.",
+        "minting-too": "",
+        "series_number": "12",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: yellow; teeth: none; clothing: multicolored; accessories: mask; expression: none; strength: agility; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "78dcbcd2adfb9edd17089b952b014888e36585194587fe913fd0c3bee570d014"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "mayowa-the-smallie",
+        "description": "Mayowa is so small but everyone loves him still.",
+        "minting-too": "",
+        "series_number": "13",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: blue; teeth: none; clothing: multicolored; accessories: mask; expression: none; strength: none; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "cdddabf34aeb02e0d51adad59e6f3fb43cec9248c8849fd603873a304a8e4801"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "muyiwa-the-stylish",
+        "description": "Muyiwa has a motto which is never to be caught unfresh.",
+        "minting-too": "",
+        "series_number": "14",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: ash; teeth: none; clothing: multicolored; accessories: mask; expression: none; strength: creativity; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "fa3e79e5503c144d04091de6fb697fcecde22c840139304f82a19cddd4b952c4"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "nina-paper-chaser",
+        "description": "Nina loves money. It's all she dreams of. ",
+        "minting-too": "",
+        "series_number": "15",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: brown double bun; eyes: none; teeth: none; clothing: animal print; accessories: glasses; expression: none; strength: hustler; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "247cdf526197cc4f6d007755b604a169e58196a0e05a524ee1554495bd86152f"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "oluwaseun-spicy",
+        "description": "He loves spicy foods. He cooks pepper and sprinkles rice on top.",
+        "minting-too": "",
+        "series_number": "16",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: black; teeth: none; clothing: yellow and purple agbada; accessories: mask; expression: none strength: none; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "03bb108392cde1189a828a443b41e9840398c8dec40b2259d65dfd68fc63c2d0"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "sesan-the-smartie",
+        "description": "Sesan always comes first in competitions.",
+        "minting-too": "",
+        "series_number": "17",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: blue; teeth: none; clothing: orange; accessories: mask; expression: none; strength: intelligence; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "f093f476997ab3b0ce37754df57c04cb3d99608ba8a954823ac3e8e72cd766fa"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "tiwa-london",
+        "description": "If she says she's in London and you see her; you're in London too.",
+        "minting-too": "",
+        "series_number": "18",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: braids; eyes: none; teeth: none; clothing: black top; accessories: glasses; expression: none; strength: none; weakness: untruthfulness;"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "56cbc225e864adde39bb7d2886a43cd8e53017aa0b2b29b5ff1d9ce1d1b53033"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "tunde-yoruba-demon",
+        "description": "Tunde derives joy in breaking hearts. It's a lifestyle.",
+        "minting-too": "",
+        "series_number": "19",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: white; teeth: none; clothing: purple and yellow agbada; accessories: mask; expression: none; strength: none; weakness: promiscuity"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "c0b31144db21893deb4f2c6f8c68ffccbc65ba39ede523c0ba15f141cd66639e"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "yakubu-the-zombie",
+        "description": "Yakubu earned his zombie title because na only dust full him head.",
+        "minting-too": "",
+        "series_number": "20",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: bald; eyes: black; teeth: none; clothing: green and purple agbada; accessories: mask; expression: none; strength:none; weakness:slow to understand things"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "783a3e917fd083913ac0ca5028bf47389504b350b95e2edd2a73260bb9350d8e"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "abdul-the-vibe",
+        "description": "Abdul the life of the party and can never be caught un-fresh.",
+        "minting-too": "TEAM CLUTCH",
+        "series_number": "21",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: black; teeth: none; clothing: purple and yellow kaftan; accessories: cap; expression: happy; strength: strong; weakness: no limitation"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "71945d3ebfbf3f970d08376ee40e6f3c56ef63007131d89fcf1c0dfc14394dab"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "emeka-the -clown",
+        "description": "Emeka the funny man; always making silly joke.",
+        "minting-too": "",
+        "series_number": "22",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: black; teeth: none; clothing: yellow and black ankara; accessories: cap; expression: straight face; strength: funny; weakness: little physique"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "cd1bc9f6e7791fc803c276a51bbbef9bfa5d22a15d3ee1edf894b73bb7805942"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "salam-the-odogwu",
+        "description": "Salam is a big time textile marketer always sourcing for quality materials.",
+        "minting-too": "",
+        "series_number": "23",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: brown; teeth: none; clothing: wine and yellow; accessories: yayada cap; expression: happy; strength: influence; weakness: impatience"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "b1c22e8dbb1a6dd5c66ab06d562775bf0734f570320ad5272233df6581a27d4a"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "charles-the-exporter",
+        "description": "Charles a business man an importer and exporter never to be caught idle.",
+        "minting-too": "",
+        "series_number": "24",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: grey; teeth: none; clothing: orange and blue; accessories: okpu ozo cap; expression: happy; strength: influential; weakness: incessant"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "e0cb68c76a16738d4d22c78c1057f17f6abc3efc9b724885c66b5055784bd104"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "wole-the-pimp",
+        "description": "Wole knows people and his way around his city.",
+        "minting-too": "",
+        "series_number": "25",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: black; teeth: two white teeth with diastema; clothing :yellow dashiki; accessories: yori yori; expression: happy; strength: strong; weakness: promiscuous"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "b6c5e7ec012924094f4bb9f9fbe70a142ca51ecdf73bdaac42c65ee5bad343ac"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "saro-the-baller",
+        "description": "Saro is a baller and he is always ready to turn-up",
+        "minting-too": "",
+        "series_number": "26",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: orange afro; eyes: blue; teeth: two white teeth with diastema; clothing: black and yellow kente; accessories: none; expression: angry; strength: strong; weakness: insatiable"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "3e47fa1bf085a27941b6d1ba8ea03161c3ebf052b614b1f2ec0df067219508f8"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "ade-omo-yoruba",
+        "description": "Ade is an influential man and he is revered in his town.",
+        "minting-too": "",
+        "series_number": "27",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: blue; teeth: complete white teeth and a gold tooth; clothing: black and yellow kente; accessories: wine cap; expression:happy; strength: hardworking; weakness: procrastination"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "966ea6beef863d0e7278334b0dfc3eef4b63c34dc7b5a9cb1593c3c80772d14e"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "shola-cool-kid",
+        "description": "Shola prefers to be alone because he hates stress.",
+        "minting-too": "",
+        "series_number": "28",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: none; teeth: none; clothing: yellow t-shirt and blue dongaris; accessories: red facecap; expression: playful; strength: fun; weakness: playful"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "ece4a11368615eaac2a84b73b3bae48cadd99e4189ae639568b88f620cf11389"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "charlie-the-smoker",
+        "description": "Charlie uses smoking as a coping mechanism.",
+        "minting-too": "",
+        "series_number": "29",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: black; teeth: none; clothing: black shirt with lion prints; accessories: blue cap; expression: happy; strength: nice; weakness: gullible"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "1c4fa82997b3e7705132f64d859255de50f4d361c1af53df5c62de2035433334"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "femi-the-badguy",
+        "description": "Femi is one of the fliest guys in Lagos.",
+        "minting-too": "",
+        "series_number": "30",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: orange; eyes: black; teeth: none; clothing: white t-shirt and blue dongaris; accessories: smoking pipe; expression: unbothered; strength: fearless; weakness: intolerance"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "9fe06cfa7b3f13f552ea3f5c2bde48ed34706dd11fcd88e1ae55c9a77c11bdde"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "sinzu-money",
+        "description": "Sinzu loves spending money on flashy things.",
+        "minting-too": "",
+        "series_number": "31",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: blue; teeth: white complete teeth and a brown tooth; clothing: purple and yellow kaftan; accessories: green-stripped fila cap; expression: strength; strength: generous; weakness: aggressive "
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "9ab35f3c886fd3d12afdfafa51cf305d8aef95e7065a043a5fb87614346d44e0"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "obinna-the-palmwine tapper",
+        "description": "Obinna taps palmwine for a living.",
+        "minting-too": "",
+        "series_number": "32",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: black; teeth: none; clothing: yellow black and a touch of pink ankara; accessories: cap; expression: happy; strength: contentment; weakness: naive"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "752ec7795d02bd363cd9c8b3f5ef1175e30add24243ca6dce2493d21a04c3e4a"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "aminu-maikudi",
+        "description": "Aminu is a wealthy man from a family with generational wealth. ",
+        "minting-too": "",
+        "series_number": "33",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: black; teeth: none; clothing: maroon and yellow agbada; accessories: cap; expression: unbothered; strength: confidence; weakness: selfishness"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "000001e65d78f6f0f18d9e197f29744501aa22f46833d816d070d160277fe0d0"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "sabinus-the-town crier",
+        "description": "Sabinus delivers messages to his town people.",
+        "minting-too": "",
+        "series_number": "34",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: black; teeth: two white teeth with diastema; clothing: orange ankara with touches of blue; accessories: cap; expression: happy; strength: dexterity; weakness: impatience"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "4557b32e4b4202bec5f8b7133f8ffbfafc0ac7a99163b5320edd63ca1b10050e"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "adisa-ibadan",
+        "description": "Adisa is an elegant man and he is adored by his people.",
+        "minting-too": "",
+        "series_number": "35",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Male"
+            },
+            {
+                "trait_type": "hair: none; eyes: black; teeth: none; clothing: kente; accessories:abeti-aja cap; expression: mischievous; strength: independent; weakness: bossy"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "bc4b20b608676d3f6bc64590fd5d7289d6115c5c0244fb08f494e81baad054bc"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "linda-the-navigator",
+        "description": "Linda knows how to make a way for herself and the people around her.",
+        "minting-too": "",
+        "series_number": "36",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blonde; eyes: none; teeth: none; clothing:multicolored; accessories: glasses; expression: confused; strength: creative; weakness: insecure"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "7038a50a46d323fb59ab06d51ce376123a20b854bf21fc6a6e1be200ddb826c5"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "kemi-the-iron lady",
+        "description": "Kemi the strongest woman known to the town of Igbede people.",
+        "minting-too": "",
+        "series_number": "37",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: ginger; eyes: none; teeth: none; clothing: ankara; accessories:glasses and a pipe; expression: cool; strength: disciplined; weakness: perfectionist"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "bc8c1b9b5e3bfd2d8a0fbb4e75facc906bfb865905d5116841cf6efb818f848f"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "mercy-the-sassy lady",
+        "description": "Mercy is a confident woman and never hesistate to show it.",
+        "minting-too": "",
+        "series_number": "38",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: brown; eyes: none; teeth:none; clothing: ankara; accessories: glasses; expression: sassy; strenght: creative; weakness: sensitive"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "db1aef3639b17cff8c81d636fd0e13a2f9fa2a8ea10880319fc2de506e1d66f2"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "sandra-money",
+        "description": "Sandra likes getting and spending money.",
+        "minting-too": "",
+        "series_number": "39",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: brown; eyes: none; teeth:none; clothing:yellow and black; accessories: glasses; expression: confused; strength: brave; weakness: overthinker"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "8f7319a60e7f827808be1f42c0dca7127f44af75c60da4a65a8c695db396c173"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "bimpe-the-fashionista",
+        "description": "Bimpe loves wearing trendy clothes and looking gorgeous.",
+        "minting-too": "",
+        "series_number": "40",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blonde; eyes: none; teeth:gap teeth; clothing: black cold shoulder shirt; accessories: glasses; expression: shocked; strength: intelligent; weakness: procrastination"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "326f4742afd9b083556c9acb0dea940f5da35be3cd4751629475ae129973a6e6"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "kim-rich-aunty",
+        "description": "She loves spoiling her nieces and nephew.",
+        "minting-too": "TEAM ENGINE",
+        "series_number": "41",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: pink; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength:brave; weakness:food"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "f66c2ad28fe30027e9a024a8ed986cde06a080803addea4baf217102d7fb77d1"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "barbra-stark",
+        "description": "She loves fine dining and spends time with family.",
+        "minting-too": "",
+        "series_number": "42",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength:brave; weakness:food"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "e06087361b46fd473c6f1906a1976dc7f1906d395795ddadcd59698608bdfb7b"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "jean-art-dolger",
+        "description": "Loves collecting art for charity.",
+        "minting-too": "",
+        "series_number": "43",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: creative; weakness: food"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "b7be441005852ca905467c17a504b979df15d4c6c8e5c28fec7c6f14a18f8059"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "flora-burger- eater",
+        "description": "She loves eating burgers.",
+        "minting-too": "",
+        "series_number": "44",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: gap; clothing: stripes; accessories: none; expression: frowning; strength: prayerful; weakness: food"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "afa3b8f129f35475b32ece8e35c8ec2cd1809f7beb8b1c95a4bcdf1271f824e2"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "jessie-lord-rings",
+        "description": "She loves her  (precious) jewelry.",
+        "minting-too": "",
+        "series_number": "45",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: satin; accessories: none; expression: smiling; strength: kind; weakness: shy"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "f92df09cf29bc2cbbd307b065f0e211b46ac67aef886f529ba57d8917c86fdc8"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "pinky-monky-ponk",
+        "description": "She love to dance the honky tonk.",
+        "minting-too": "",
+        "series_number": "46",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: maroon; eyes: blue; teeth: none; clothing: linen; accessories: none; expression: smiling; strength: brave; weakness: chips"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "79b360271c647bc08a3335c6afd386742a3b47d613fe10c4ec8e1c0d0a0408cd"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "wanjiru-hippie-glitter",
+        "description": "A hippie that loves her glitters.",
+        "minting-too": "",
+        "series_number": "47",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: wool; accessories: none; expression: smiling; strength: none; weakness: babies"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "f369f755444ac78c3293082883a8d1c5bd8124360821b3acd58a96444371693b"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "njoki-binary-coder",
+        "description": "She codes with the best language and tops the set.",
+        "minting-too": "",
+        "series_number": "48",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: none; weakness: none"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "a4a8ca6cd05ca987d06c258689c6c63ee84400e93314c6651083211f0ceb0927"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "wangu-calaba-hustler",
+        "description": "She is a passionate hustler you should be careful with her.",
+        "minting-too": "",
+        "series_number": "49",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: flying"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "02641adae09078187831df38ee5e82e84979fd6200bc4e19a4d7da1e417fef65"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "lulu-dey-kpako",
+        "description": "She's is as enthusiastic as she is beautiful.",
+        "minting-too": "",
+        "series_number": "50",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: loving; weakness: makeup"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "9fbcd85cc6c2de186dc4d51198d0e74c5fa4ffdfdb4137b7d9fec9d36a56a8be"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "kiki-cala-flier",
+        "description": "She flies first class and gets the best deals.",
+        "minting-too": "",
+        "series_number": "51",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: kittens"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "fe17d5892c623352e777d27e2dfd0da2b18cc92460623ac68eca77923f0100cf"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "purity-nft -investor",
+        "description": "She is an angel investor looking for the next big thing.",
+        "minting-too": "",
+        "series_number": "52",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: clothes"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "0c62a9d465706f48d31d59dca4fccb838fc5591a8015c15ab841393ffddc5ee9"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "june-binary-monk",
+        "description": "She has a twin from Tibet and they always play together .",
+        "minting-too": "",
+        "series_number": "53",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: money"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "f054a42c577cbdb57df4178522450073176067a030ba884d03b888d11a98ba73"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "aisha-flying-damsel",
+        "description": "She is always a damsel in distress and loves to fly.",
+        "minting-too": "",
+        "series_number": "54",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: food"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "1f975b98f9a40390349a3f593402006bf2199ec451ee4ba5bb6aa227ebc9a239"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "bobo-crypto-lovely",
+        "description": "She is a crypto guru you can trust all through.",
+        "minting-too": "",
+        "series_number": "55",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: water"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "60b9cefcd8e45cf8ef2595710ba4447b563ea600091aa40e883c048a07726774"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "nell-light -embrace",
+        "description": "She is an empathy ready with a kind word or hug.",
+        "minting-too": "",
+        "series_number": "56",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: love"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "ec0d7a170a5c206b6295c24cb3628487f4d435def5062e7e0da143ff7e997610"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "rachel-mood-silent",
+        "description": "Introvert  to the core a mysterious lady.",
+        "minting-too": "",
+        "series_number": "57",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: walls"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "978754b4f72d350877588e11bfbd7232007289bd4779ce4f8d82ed2472086483"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "nana-reflector-agent",
+        "description": "She loves her chrome fashion style.",
+        "minting-too": "",
+        "series_number": "58",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: pink; eyes: blue; teeth: none; clothing: ankara; accessories:none; expression: smiling; strength: brave; weakness: shy"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "e4ea18a1674cf4e8b1000c7a6d91ec1bab223c708fcaba997f6a5fa4f986363e"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "bree-busy-gossip",
+        "description": "Never whisper your secrets to her except you want the world to know.",
+        "minting-too": "",
+        "series_number": "59",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: blue; eyes:white; teeth: none; clothing: glitter; accessories:none; expression: frowm; strength:goodlistener; weakness:height"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "25a733cee6be4690711b1529be512776f163bebf0e990ec87bdf1588770086db"
+    },
+    {
+        "format": "CHIP-0007",
+        "Name": "jude-shadow-fighter",
+        "description": "A ninja warrior; the last samurai standing.",
+        "minting-too": "",
+        "series_number": "60",
+        "series_total": 420,
+        "attributes": [
+            {
+                "trait_type": "gender",
+                "value": "Female"
+            },
+            {
+                "trait_type": "hair: white; eyes:brown; teeth: none; clothing: ankara; accessories:chain; expression: smiling; strength:brave; weakness:water"
+            }
+        ],
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+            "attributes": [
+                {
+                    "trait_type": "description",
+                    "value": "Rewards for accomplishments during HNGi9"
+                }
+            ]
+        },
+        "Hash": "1333fb332158c80be23f9c91cd9c6021429809d7c0a99903be0228c8d61ddd3f"
+    },
+    {
+        "Hash": "1333fb332158c80be23f9c91cd9c6021429809d7c0a99903be0228c8d61ddd3f"
+    }
+]
